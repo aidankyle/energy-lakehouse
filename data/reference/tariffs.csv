@@ -1,0 +1,7 @@
+tariff_id,meter_type,period,start_hour,end_hour,rate_php_per_unit,effective_from
+T-E-OFF,electricity,off_peak,0,6,8.2,2026-01-01
+T-E-MID,electricity,standard,6,17,11.5,2026-01-01
+T-E-PEAK,electricity,peak,17,22,14.8,2026-01-01
+T-E-NIGHT,electricity,standard,22,24,10.2,2026-01-01
+T-W,water,all_day,0,24,52.0,2026-01-01
+T-G,gas,all_day,0,24,4.9,2026-01-01

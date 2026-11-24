@@ -1,0 +1,6 @@
+location_id,city,region,country,latitude,longitude,climate_zone
+LOC001,Manila,NCR,14.5995,120.9842,29.0,Tropical
+LOC002,Pasig,NCR,14.5764,121.0851,28.5,Tropical
+LOC003,Quezon City,NCR,14.676,121.0437,28.0,Tropical
+LOC004,Cebu City,Central Visayas,10.3157,123.8854,29.2,Tropical
+LOC005,Davao City,Davao Region,7.1907,125.4553,28.8,Tropical
